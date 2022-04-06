@@ -76,6 +76,7 @@ section{
 
 #skills .section-details ul li{
 	width: 25%;
+	font-size: 20px;
 }
 
 #skills {
@@ -87,6 +88,9 @@ section{
 #about .section-details{
 	display: flex;
 	flex-direction: row;
+}
+#about .about-content{
+	font-size: 20px;
 }
 
 #about .section-details .about-content span{
